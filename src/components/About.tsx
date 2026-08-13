@@ -40,7 +40,7 @@ const About = () => {
               strong fundamentals in algorithms, data structures, and software engineering principles.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              I specialize in full-stack development with expertise in modern web technologies including React, 
+              I specialize in full-stack development,cloud development, and distributed systems with expertise in modern web technologies including React, 
               Node.js, Python, and cloud platforms. I'm passionate about creating scalable applications and 
               exploring emerging technologies like machine learning and mobile development.
             </p>

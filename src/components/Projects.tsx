@@ -16,6 +16,16 @@ const Projects = () => {
       featured: true
     },
     {
+      title: "Notes App",
+      description: "A complete notes application similar to google keep ",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOpizcks9hQsedRS9hB1hSuteYt4hDDB_9eI6RcFqRQ&s=10",
+      category: "Full Stack",
+      technologies: ["React", "Node.js", "postgre SQL", "Express", "JWT", "AWS","S3","EC2"],
+      github: "https://github.com/bvamshi4928/notes-app",
+      live: "https://github.com/bvamshi4928/notes-app",
+      featured: true
+    },
+    {
       title: "Stream Studio",
       description: " A real time chat application where user are to learn a language along with video call features.",
       image: "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=800",

@@ -4,6 +4,22 @@ import { Briefcase, Calendar, MapPin, ExternalLink } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
+      title: "Software Developer II",
+      company: "Seeds of Success",
+      location: "Tempe,Arizona",
+      period: "July 2026 - Present",
+      description: " worked on datapipeline and building chatbots",
+      
+
+      achievements: [
+        " Automated Python data-extraction pipilines to parse 100%  of multi-year economic datasets,from state government sources, eliminating manual data entry and standardizing schemas for supabase postgresql.", 
+"Architected a Retrieval-Augmented Generation (RAG) pipeline using pgvector and OpenAI embeddings to power a context-aware LLM chatbot, cutting query retrieval latency by 50% while improving answer accuracy",
+      ],
+
+
+      technologies: ["Python", "Supabase", "PostgreSQL", "OpenAI", "LangChain"]
+    },
+    {
       title: "Software Developer Intern",
       company: "Brane Enterprises Private Limited",
       location: "Hyderabad,India",
