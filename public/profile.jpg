@@ -1,0 +1,28 @@
+<!-- This is a placeholder file. You need to replace this with your actual profile image -->
+<!-- 
+To add your profile image:
+
+METHOD 1 - Local File (Recommended):
+1. Take or choose a professional headshot photo
+2. Resize it to approximately 400x400 pixels (square format works best)
+3. Save it as 'profile.jpg' 
+4. Upload it to the 'public' folder of your project
+5. Update Hero.tsx to use: src="/profile.jpg"
+
+METHOD 2 - External URL:
+1. Upload your image to a reliable image hosting service like:
+   - Imgur (https://imgur.com)
+   - Cloudinary (https://cloudinary.com)
+   - Your own website/domain
+2. Get the direct image URL
+3. Update the src in Hero.tsx
+
+The image should be:
+- Professional looking
+- Good lighting
+- Clear and high quality
+- Square aspect ratio (1:1)
+- File size under 500KB for optimal loading
+
+Current placeholder will show until you replace it with your actual image.
+-->
